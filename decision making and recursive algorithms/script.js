@@ -23,7 +23,7 @@ function getTicketPrice() {
     console.log("The price of your movie ticket is: $" + price);
 }
 
-// Example usage
+// Example 
 getTicketPrice();
 
 //? leap year check 
